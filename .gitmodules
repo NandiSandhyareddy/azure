@@ -1,3 +1,6 @@
 [submodule "MyShuttlenextops"]
 	path = MyShuttlenextops
 	url = https://github.com/nextopsvideos/MyShuttle.git
+[submodule "MyShuttle001"]
+	path = MyShuttle001
+	url = https://github.com/nextopsvideos/MyShuttle.git
