@@ -1,0 +1,3 @@
+[submodule "MyShuttlenextops"]
+	path = MyShuttlenextops
+	url = https://github.com/nextopsvideos/MyShuttle.git
